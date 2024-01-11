@@ -1,6 +1,6 @@
 
 ### <h1> Hi👋, My name is Ravinder Kaur </h1>
-I'm a final year computer science student at Chandigarh University. I’m currently learning Full Stack development.
+I'm a final-year computer science student at Chandigarh University. I’m currently learning full-stack web development.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,react,js,materialui,mysql,mongodb,nodejs,vscode,wordpress)](https://skillicons.dev)
