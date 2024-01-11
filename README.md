@@ -6,8 +6,11 @@ I'm a final year computer science student at Chandigarh University. I’m curren
 [![My Skills](https://skillicons.dev/icons?i=py,react,js,materialui,mysql,mongodb,nodejs,vscode,wordpress)](https://skillicons.dev)
 
 ### Socials
-[<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/ravinder-kaur001)
 
+<p align="left">
+<a href="https://www.linkedin.com/in/ravinder-kaur001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yugesh-jhamb-494924204" height="30" width="40" /></a>
+ <a href="https://leetcode.com/Rhundal0917/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yugeshjhamb_3108" height="30" width="40" /></a> 
+</p>
 <!--
 **ravinderh17/ravinderh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
