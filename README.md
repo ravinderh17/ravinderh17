@@ -1,5 +1,5 @@
 
-### Hi!👋 My name is Ravinder Kaur
+### <h1> Hi👋, My name is Ravinder Kaur </h1>
 I'm a final year computer science student at Chandigarh University. I’m currently learning Full Stack development.
 
 ### Skills
