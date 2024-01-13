@@ -3,10 +3,8 @@
 A self-taught, passionate and fast-learner full-stack website developer. I'm currently enrolled in final-year BE-CSE at Chandigarh University.
 
 - I’m keeping up-to-date technologies by daily learning.
-  
 - Make it work, make it right, make it fast.
   
-- Reach me at ravinderh17@gmail.com
   
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,react,js,materialui,mysql,mongodb,nodejs,vscode,wordpress)](https://skillicons.dev)
