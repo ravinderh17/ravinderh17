@@ -1,6 +1,6 @@
  
 ### <h1>🚀 About Me </h1>
-A self-taught, passionate and fast-learner full-stack website developer. I'm currently enrolled in final-year BE-CSE at Chandigarh University.
+A self-taught, passionate and fast-learner full-stack website developer. I'm currently open for both intern and full-time roles.
 
 - I’m keeping up-to-date technologies by daily learning.
 - Make it work, make it right, make it fast.
