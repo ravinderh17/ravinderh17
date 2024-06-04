@@ -2,9 +2,9 @@
 ### <h1>Hi 👋, I'm Ravinder Kaur </h1>
 🔭 I'm a self-taught, passionate and fast-learner full-stack website developer. 
 
-- 👭 I'm currently open for both intern and full-time roles.
+- 👭 I'm currently looking for both intern and full-time roles.
 - 💬 Ask me about **Java, JavaScript.**
-- Make it work, make it right, make it fast.
+- 👩‍💻 Make it work, make it right, make it fast.
 - 📫 How to reach me: ravinderh17@gmail.com
   
   
