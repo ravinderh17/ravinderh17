@@ -1,6 +1,6 @@
  
 ### <h1>Hi 👋, I'm Ravinder Kaur </h1>
-🔭 I'm a self-taught, passionate and fast-learner full-stack website developer. 
+🔭 I'm a self-taught, passionate and fast-learner full-stack website developer based in Chandigarh, India.
 
 - 👭 I'm currently looking for both intern and full-time roles.
 - 💬 Ask me about **Java, JavaScript.**
