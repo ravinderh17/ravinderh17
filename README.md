@@ -5,7 +5,8 @@
   <img align="left" alt="Ravinder Kaur | LinkedIn"
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-### 
+
+<br/> 
 🔭 I'm a self-taught, passionate and fast-learner full-stack website developer based in Chandigarh, India.
 
 - 👭 I'm currently looking for both intern and full-time roles.
