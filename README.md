@@ -1,8 +1,10 @@
  
 #  Hi there, I'm Ravinder Kaur </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-🔭 I'm a self-taught, passionate and fast-learner full-stack website developer based in Chandigarh, India.
-
+### About Me:
+🔭 I'm a passionate and skilled full stack developer, recently graduated with a B.E. in C.S.E. from Chandigarh University. 
+My journey in software development is driven by a strong foundation in both frontend and backend technologies, and a relentless drive to create efficient, scalable, and user-friendly web applications.
+ 
 - 👭 I'm currently looking for both intern and full-time roles.
 - 💬 Ask me about **Java, JavaScript.**
 - 👩‍💻 Make it work, make it right, make it fast.
