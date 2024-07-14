@@ -1,10 +1,5 @@
  
 #  Hi there, I'm Ravinder Kaur </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-### Let's Connect here!
-<a href="http://linkedin.com/in/ravinder-kaur001">
-  <img align="left" alt="Ravinder Kaur | LinkedIn"
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <br/> 
 🔭 I'm a self-taught, passionate and fast-learner full-stack website developer based in Chandigarh, India.
