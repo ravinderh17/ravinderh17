@@ -1,5 +1,6 @@
  
-### <h1>Hi 👋, I'm Ravinder Kaur </h1>
+#  Hi there, I'm Ravinder Kaur </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+### Let's Connect here!
 🔭 I'm a self-taught, passionate and fast-learner full-stack website developer based in Chandigarh, India.
 
 - 👭 I'm currently looking for both intern and full-time roles.
