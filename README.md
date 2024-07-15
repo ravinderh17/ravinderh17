@@ -6,6 +6,8 @@
 My journey in software development is driven by a strong foundation in both frontend and backend technologies, and a relentless drive to create efficient, scalable, and user-friendly web applications.
  
 - 👭 I'm currently looking for both intern and full-time roles.
+- 👩‍💻 I am skilled in ReactJS, JavaScript, REST APIs, NodeJS.
+- 👩‍💻 My passion for learning drives me to stay abreast of the latest technologies and best practices in the field, ensuring that I can contribute effectively to any project or task assigned to me. 
 - 💬 Ask me about **Java, JavaScript.**
 - 👩‍💻 Make it work, make it right, make it fast.
 - 📫 How to reach me: ravinderh17@gmail.com
