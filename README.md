@@ -9,7 +9,7 @@ My journey in software development is driven by a strong foundation in both fron
 - 👩‍💻 I am skilled in ReactJS, JavaScript, REST APIs, NodeJS.
 - 👩‍💻 I stay updated with the latest technologies and best practices to ensure effective contributions to any project.
 - 💬 Ask me about **Java, JavaScript.**
-- 👩‍💻 "Make it work, make it right, make it fast."
+- 👩‍💻 Efficiency and maintainability are my mantras.
 - 📫 How to reach me: ravinderh17@gmail.com
   
   
