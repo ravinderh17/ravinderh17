@@ -13,7 +13,7 @@ My journey in software development is driven by a strong foundation in both fron
   
   
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=java,py,react,js,materialui,mysql,mongodb,nodejs,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,java,py,materialui,mysql,mongodb,nodejs,vscode,wordpress)](https://skillicons.dev)
 
 ### Find me on:
 
