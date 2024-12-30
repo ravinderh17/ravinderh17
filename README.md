@@ -7,14 +7,13 @@ My journey in software development is driven by a strong foundation in both fron
  
 - 👭 I'm currently looking for both intern and full-time roles.
 - 👩‍💻 I am skilled in ReactJS, JavaScript, REST APIs, NodeJS.
-- 👩‍💻 I stay updated with the latest technologies and best practices to ensure effective contributions to any project.
 - 🎯 Currently learning ReduxToolKit, RTK Query.
 - 💬 Ask me about **Java, JavaScript.**
 - 👩‍💻 Efficiency and maintainability are my mantras.
   
   
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,java,py,materialui,mysql,mongodb,nodejs,html,css,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,java,py,materialui,mysql,mongodb,nodejs)](https://skillicons.dev)
 
 ### Find me on:
 
