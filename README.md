@@ -8,7 +8,7 @@ My journey in software development is driven by a strong foundation in both fron
 - I am skilled in ReactJS, JavaScript, REST APIs, NodeJS.
   
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,java,py,materialui,mysql,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,java,py,mysql,nodejs)](https://skillicons.dev)
 
 ### Find me on:
 
