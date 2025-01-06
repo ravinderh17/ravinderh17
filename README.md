@@ -1,7 +1,7 @@
  
 #  Hi, I'm Ravinder Kaur
-### About Me:
-🔭 I'm a passionate and skilled full stack developer, recently graduated with a B.E. in C.S.E. from Chandigarh University. 
+
+I'm a passionate and skilled full stack developer, recently graduated with a B.E. in C.S.E. from Chandigarh University. 
 My journey in software development is driven by a strong foundation in both frontend and backend technologies, and a relentless drive to create efficient, scalable, and user-friendly web applications.
  
 - 👭 I'm currently looking for both intern and full-time roles.
