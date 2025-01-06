@@ -1,16 +1,11 @@
  
-#  Hi there, I'm Ravinder Kaur </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-
+#  Hi, Welcome to my Page
 ### About Me:
 🔭 I'm a passionate and skilled full stack developer, recently graduated with a B.E. in C.S.E. from Chandigarh University. 
 My journey in software development is driven by a strong foundation in both frontend and backend technologies, and a relentless drive to create efficient, scalable, and user-friendly web applications.
  
 - 👭 I'm currently looking for both intern and full-time roles.
 - 👩‍💻 I am skilled in ReactJS, JavaScript, REST APIs, NodeJS.
-- 🎯 Currently learning ReduxToolKit, RTK Query.
-- 💬 Ask me about **Java, JavaScript.**
-- 👩‍💻 Efficiency and maintainability are my mantras.
-  
   
 ### My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,java,py,materialui,mysql,mongodb,nodejs)](https://skillicons.dev)
