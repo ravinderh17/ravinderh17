@@ -1,11 +1,8 @@
  
 #  Hi, I'm Ravinder Kaur
-
-I'm a passionate and skilled full stack developer, recently graduated with a B.E. in C.S.E. from Chandigarh University. 
-My journey in software development is driven by a strong foundation in both frontend and backend technologies, and a relentless drive to create efficient, scalable, and user-friendly web applications.
  
-- I'm currently looking for both intern and full-time roles.
-- I am skilled in ReactJS, JavaScript, REST APIs, NodeJS.
+- I'm currently working as Software Engineer in Capgemini India.
+- I am skilled in Python, Data Science, Machine Learning, SQL, REST APIs.
   
 ### Languages and Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,java,py,mysql,nodejs)](https://skillicons.dev)
