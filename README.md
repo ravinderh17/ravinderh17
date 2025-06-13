@@ -4,8 +4,6 @@
 - I'm currently working as Software Engineer in Capgemini India.
 - I am skilled in Python, Data Science, Machine Learning, SQL, REST APIs.
   
-### Languages and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,java,py,mysql,nodejs)](https://skillicons.dev)
 
 ### Find me on:
 
@@ -17,6 +15,8 @@
 **ravinderh17/ravinderh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Languages and Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,java,py,mysql,nodejs)](https://skillicons.dev)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
