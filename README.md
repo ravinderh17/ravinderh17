@@ -2,7 +2,8 @@
 #  Hi, I'm Ravinder Kaur
  
 - I'm currently working as Software Engineer in Capgemini India.
-- I am skilled in Python, Data Science, Machine Learning, SQL, REST APIs.
+- Currrently learning Agentic AI, LLMs.
+- I have completed hands-on training on Python, Data Science, Machine Learning, SQL.
   
 
 ### Find me on:
